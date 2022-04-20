@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DiagramDesigner.RubberbandAdorner" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAEAAAAAAAhAAAAAAAABgIAQCAAA=</HashCode>
+      <FileName>Adorners\RubberbandAdorner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.DragAndDropProps" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAACAAAAABAAQAAAAAQACAAAIAAEAAAAA=</HashCode>
+      <FileName>AttachedProperties\DragAndDropProps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.ItemConnectProps" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAAgAA=</HashCode>
+      <FileName>AttachedProperties\ItemConnectProps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.SelectionProps" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQgAAAAAAAAAAAAAAEAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>AttachedProperties\SelectionProps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.Connector" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\Connector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.DesignerCanvas" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAIAAAACAAAAABAAAAAgIAAQAgAGAAI=</HashCode>
+      <FileName>Controls\DesignerCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.ZoomBox" Collapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAAAAAAADAAAAAAAAAEAAAQBRAAEAUMAA=</HashCode>
+      <FileName>Controls\ZoomBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.BoolToVisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Converters\BoolToVisibilityConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DiagramDesigner.ConnectionPathConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Converters\ConnectionPathConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DiagramDesigner.ImageUrlConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Converters\ImageUrlConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DiagramDesigner.DragObject" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Helpers\DragObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.OrthogonalPathFinder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAQDAAAAAAAAAAQIAgAAggQBQAIhAAAAAAAAEAAA=</HashCode>
+      <FileName>Helpers\OrthogonalPathFinder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DiagramDesigner.PointHelper" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\PointHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.WeakAction" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACACAAAAAAAAAAAAAQAAAEAAAAAAQUAAAAAA=</HashCode>
+      <FileName>Messenger\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.Mediator" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAARAAAAAAAAgAAABBAAAAQAAAAAAAUAA=</HashCode>
+      <FileName>Messenger\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.MediatorMessageSinkAttribute" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Messenger\MediatorMessageSinkAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.DesignerItemsControlItemStyleSelector" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>StyleSelectors\DesignerItemsControlItemStyleSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.DiagramControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserControls\DiagramControl.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DiagramDesigner.ConnectorInfoBase" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAABAAAAAAAAAAAAAAAAAQAAAAEAAAAAA=</HashCode>
+      <FileName>ViewModels\ConnectorInfoBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.ConnectorViewModel" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgAgAAAABQAEAAUAMAAAIDAAAAAABIQASCQAAAAE=</HashCode>
+      <FileName>ViewModels\ConnectorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.DesignerItemViewModelBase" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAAIAABACAAAAAAAgAAAAIQAAACEACAAAACCA=</HashCode>
+      <FileName>ViewModels\DesignerItemViewModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.DiagramViewModel" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAgAgACAAIAAgCiAAAAAAAAJAABIAAAAAQgAA=</HashCode>
+      <FileName>ViewModels\DiagramViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DiagramDesigner.FullyCreatedConnectorInfo" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\FullyCreatedConnectorInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.INPCBase" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAABAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\INPCBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DiagramDesigner.PartCreatedConnectionInfo" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\PartCreatedConnectionInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.SelectableDesignerItemViewModelBase" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAQAAgAEAAAAAAAQAAAAAAAAAAAAAQCAAAAAAA=</HashCode>
+      <FileName>ViewModels\SelectableDesignerItemViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DiagramDesigner.SimpleCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAEEAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ViewModels\SimpleCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DiagramDesigner.Controls.DragThumb" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\DragThumb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.Helpers.ToolBoxData" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Helpers\ToolBoxData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.Helpers.WeakINPCEventHandler" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\WeakINPCEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.Properties.Resources" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramDesigner.Properties.Settings" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="DiagramDesigner.ConnectorInfo" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAQAAAAAgAAAAAAAAAAEAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Helpers\ConnectorInfo.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="DiagramDesigner.IPathFinder" Collapsed="true">
+    <Position X="13.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\IPathFinder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DiagramDesigner.IDiagramViewModel" Collapsed="true">
+    <Position X="12" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAgAgACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\IDiagramViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DiagramDesigner.ISelectItems" Collapsed="true">
+    <Position X="15.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\SelectableDesignerItemViewModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DiagramDesigner.ConnectorOrientation" Collapsed="true">
+    <Position X="12" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAACACAAAEAAAA=</HashCode>
+      <FileName>Controls\Connector.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>

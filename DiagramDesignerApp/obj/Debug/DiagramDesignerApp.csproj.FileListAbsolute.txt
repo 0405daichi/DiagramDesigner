@@ -1,0 +1,180 @@
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.exe.config
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.exe
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\DiagramDesigner.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\DiagramDesigner.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csprojAssemblyReference.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\MainWindow.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\App.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp_MarkupCompile.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp_MarkupCompile.lref
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\MainWindow.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.g.resources
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.Properties.Resources.resources
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.GenerateResource.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.CoreCompileInputs.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.CopyComplete
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.exe
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\UserControls\EditProperty.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\HumanDesignerItemDataTemplate.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\UserControls\EditProperty.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\PinDesignerItemDataTemplate.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\App.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\Popups\PopupWindow.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\Popups\PopupWindow.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Buffers.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Memory.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Text.Json.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.ValueTuple.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Buffers.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Memory.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Text.Json.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.ValueTuple.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.exe.config
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.exe
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\DiagramDesigner.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Buffers.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Memory.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Text.Json.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.ValueTuple.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\DiagramDesigner.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Buffers.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Memory.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Text.Json.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\bin\Debug\System.ValueTuple.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csprojAssemblyReference.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\Popups\PopupWindow.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\UserControls\EditProperty.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\MainWindow.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\App.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp_MarkupCompile.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp_MarkupCompile.lref
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\App.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\Popups\PopupWindow.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\HumanDesignerItemDataTemplate.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\PinDesignerItemDataTemplate.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\UserControls\EditProperty.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\MainWindow.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.g.resources
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.Properties.Resources.resources
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.GenerateResource.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.CoreCompileInputs.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.CopyComplete
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.exe
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csprojAssemblyReference.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\UserControls\EditProperty.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\MainWindow.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\App.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp_MarkupCompile.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp_MarkupCompile.lref
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.exe
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.exe.config
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.exe
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\DiagramDesigner.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Buffers.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Memory.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Text.Json.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.ValueTuple.dll
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\DiagramDesigner.pdb
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Buffers.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Memory.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Text.Json.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\bin\Debug\System.ValueTuple.xml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\App.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\HumanDesignerItemDataTemplate.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\PinDesignerItemDataTemplate.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\UserControls\EditProperty.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\MainWindow.baml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.g.resources
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.Properties.Resources.resources
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.GenerateResource.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.CoreCompileInputs.cache
+C:\Users\IG21-191\source\repos\DiagramDesignerApp - コピー - コピー\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.CopyComplete
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.exe.config
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.exe
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\DiagramDesignerApp.pdb
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\DiagramDesigner.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Buffers.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Memory.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Text.Json.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.ValueTuple.dll
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\DiagramDesigner.pdb
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Buffers.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Memory.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Text.Json.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\bin\Debug\System.ValueTuple.xml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csprojAssemblyReference.cache
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.g.cs
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\UserControls\EditProperty.g.cs
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\MainWindow.g.cs
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\App.g.cs
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp_MarkupCompile.cache
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp_MarkupCompile.lref
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\App.baml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\HumanDesignerItemDataTemplate.baml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\PinDesignerItemDataTemplate.baml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.baml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\UserControls\EditProperty.baml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\MainWindow.baml
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.g.resources
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.Properties.Resources.resources
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.GenerateResource.cache
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.CoreCompileInputs.cache
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.csproj.CopyComplete
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.exe
+C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\DiagramDesignerApp.pdb

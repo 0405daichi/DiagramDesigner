@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:DiagramDesignerApp">
+
+
+    <!-- DataTemplate for DesignerCanvas look and feel -->
+    <DataTemplate DataType="{x:Type local:PinDesignerItemViewModel}">
+        <Grid>
+            <Image IsHitTestVisible="False"
+                       Stretch="Fill"
+                       Source="../../Images/pinImage.png"
+                       Tag="pin" />
+        </Grid>
+    </DataTemplate>
+</ResourceDictionary>

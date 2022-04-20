@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:DiagramDesignerApp">
+
+    <!-- DataTemplate for DesignerCanvas look and feel -->
+    <DataTemplate DataType="{x:Type local:HumanDesignerItemViewModel}">
+        <Grid>
+            <Image IsHitTestVisible="False"
+                     Stretch="Fill"
+                     Source="../../Images/humanImage.png"
+                     Tag="human" />
+        </Grid>
+    </DataTemplate>
+</ResourceDictionary>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagramDesignerApp", "DiagramDesignerApp\DiagramDesignerApp.csproj", "{DB3F4CFF-6A81-44D0-A55D-3EDA4D6240A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagramDesigner", "DiagramDesigner\DiagramDesigner.csproj", "{74872A86-6809-476B-95AB-6F3512317059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3F4CFF-6A81-44D0-A55D-3EDA4D6240A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3F4CFF-6A81-44D0-A55D-3EDA4D6240A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3F4CFF-6A81-44D0-A55D-3EDA4D6240A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3F4CFF-6A81-44D0-A55D-3EDA4D6240A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74872A86-6809-476B-95AB-6F3512317059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74872A86-6809-476B-95AB-6F3512317059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74872A86-6809-476B-95AB-6F3512317059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74872A86-6809-476B-95AB-6F3512317059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B87B90C-12ED-4520-A453-3622E606A19B}
+	EndGlobalSection
+EndGlobal
