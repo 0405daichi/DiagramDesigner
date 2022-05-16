@@ -37,6 +37,8 @@
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
     <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -89,8 +91,8 @@
     <Compile Include="AttachedProperties\DragAndDropProps.cs" />
     <Compile Include="AttachedProperties\SelectionProps.cs" />
     <Compile Include="Converters\CircleConverter.cs" />
-    <Compile Include="LineItemList.cs" />
     <Compile Include="LinePoint.cs" />
+    <Compile Include="SerializeItems.cs" />
     <Compile Include="ViewModels\CircleDesignerItemViewModel.cs" />
     <Compile Include="Helpers\ConnectorInfo.cs" />
     <Compile Include="Converters\ConnectionPathConverter.cs" />
@@ -100,7 +102,6 @@
     <Compile Include="Helpers\PointHelper.cs" />
     <Compile Include="Messenger\Mediator.cs" />
     <Compile Include="Messenger\MediatorMessageSinkAttribute.cs" />
-    <Compile Include="Controls\SDesignerCanvas.cs" />
     <Compile Include="UserControls\DiagramControl.xaml.cs">
       <DependentUpon>DiagramControl.xaml</DependentUpon>
     </Compile>
@@ -115,6 +116,7 @@
     <Compile Include="ViewModels\ConnectorViewModel.cs" />
     <Compile Include="ViewModels\FullyCreatedConnectorInfo.cs" />
     <Compile Include="ViewModels\PathDesignerItemViewModel.cs" />
+    <Compile Include="ViewModels\SDiagramViewModel.cs" />
     <Compile Include="ViewModels\SelectableDesignerItemViewModelBase.cs" />
     <Compile Include="ViewModels\DesignerItemViewModelBase.cs" />
     <Compile Include="ViewModels\INPCBase.cs" />
@@ -193,7 +195,6 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

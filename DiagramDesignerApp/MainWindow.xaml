@@ -9,6 +9,11 @@
         Title="MainWindow" Height="450" Width="800">
 
     <DockPanel>
+        <ToolBar DockPanel.Dock="Top" Height="30">
+            <Button Content="Serialize" Height="30" Width="100" Command="{Binding SerializeCommand}"/>
+            <Button Content="Deserialize" Height="30" Width="100" Command="{Binding DeserializeCommand}"/>
+            <Button Content="Delete" Height="30" Width="100" Command="{Binding DeleteCommand}"/>
+        </ToolBar>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="200" />

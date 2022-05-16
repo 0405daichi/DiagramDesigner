@@ -314,23 +314,23 @@
 
                     <ItemsControl.ItemsPanel>
                         <ItemsPanelTemplate>
-                            <s:SDesignerCanvas
+                            <s:DesignerCanvas
                                                 MinHeight="800"
                                                 MinWidth="1000"
                                                 Background="White"
                                                 AllowDrop="True">
-                            </s:SDesignerCanvas>
+                            </s:DesignerCanvas>
                         </ItemsPanelTemplate>
                     </ItemsControl.ItemsPanel>
 
                 </ItemsControl>
             </ScrollViewer>
-            <!--<s:ZoomBox x:Name="zoomBox"
+            <s:ZoomBox x:Name="zoomBox"
                        Width="180"
                        HorizontalAlignment="Right"
                        VerticalAlignment="Top"
                        ScrollViewer="{Binding ElementName=DesignerScrollViewer}"
-                       Margin="0,5,25,0" />-->
+                       Margin="0,5,25,0" />
         </Grid>
     </Border>
 </UserControl>

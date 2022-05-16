@@ -16,7 +16,6 @@ namespace DiagramDesigner
 
         public LinePoint CenterRangeStart { get; set; }
         public LinePoint CenterRangeEnd { get; set; }
-        public string CircleName { get; set; }
 
         public bool CenterFlag
         {
@@ -72,6 +71,26 @@ namespace DiagramDesigner
                 _radius = value;
                 NotifyChanged("Radius");
             }
+        }
+
+        public static CircleDesignerItemViewModel Deserialize(SerializeItems item)
+        {
+            CircleDesignerItemViewModel obj = new CircleDesignerItemViewModel()
+            {
+                Type = item.Type,
+                ParentPathName = item.Name,
+                Start = new LinePoint(item.StartPoint.X, item.StartPoint.Y),
+                End = new LinePoint(item.EndPoint.X, item.EndPoint.Y),
+                Center = new LinePoint(item.CenterPoint.X, item.CenterPoint.Y),
+                CenterRangeStart = new LinePoint(),
+                CenterRangeEnd = new LinePoint(),
+                Radius = new Size(50, 50),
+                CenterFlag = false
+            };
+            obj.Start.Parent = obj;
+            obj.End.Parent = obj;
+            obj.Center.Parent = obj;
+            return obj;
         }
     }
 }

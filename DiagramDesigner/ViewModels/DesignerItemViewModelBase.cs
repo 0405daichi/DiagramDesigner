@@ -6,10 +6,6 @@ using System.Windows.Input;
 
 namespace DiagramDesigner
 {
-
-
-
-
     public abstract class DesignerItemViewModelBase : SelectableDesignerItemViewModelBase
     {
         private double left;

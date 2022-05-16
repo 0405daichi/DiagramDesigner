@@ -16,6 +16,12 @@ namespace DiagramDesigner
 
         public LinePoint() { }
 
+        public LinePoint(double x, double y)
+        {
+            _point = new Point(x, y);
+            _accessLine = new List<SelectableDesignerItemViewModelBase>();
+        }
+
         public LinePoint(double x, double y, SelectableDesignerItemViewModelBase parent)
         {
             _point = new Point(x, y);

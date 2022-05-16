@@ -4,17 +4,17 @@
 library
 C#
 .cs
-c:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesigner\obj\Debug\
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesigner\obj\Debug\
 DiagramDesigner
 none
 false
 DEBUG;TRACE
 
-9-606356882
+9289031507
 
-42411149741
-1238105548
+41906050962
+12-425035913
 Resources\Styles\DesignerItems.xaml;UserControls\DiagramControl.xaml;Resources\Styles\ZoomBox.xaml;Resources\Styles\Expander.xaml;Resources\Styles\GroupBox.xaml;Resources\Styles\ScrollBar.xaml;Resources\Styles\ScrollViewer.xaml;Resources\Styles\Shared.xaml;Resources\Styles\ToolTip.xaml;
 
-True
+False
 

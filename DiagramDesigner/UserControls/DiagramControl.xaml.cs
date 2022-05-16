@@ -24,10 +24,10 @@ namespace DiagramDesigner
             InitializeComponent();
         }
 
-        //private void DesignerCanvas_Loaded(object sender, RoutedEventArgs e)
-        //{
-        //    DesignerCanvas myDesignerCanvas = sender as DesignerCanvas;
-        //    zoomBox.DesignerCanvas = myDesignerCanvas;
-        //}
+        private void DesignerCanvas_Loaded(object sender, RoutedEventArgs e)
+        {
+            DesignerCanvas myDesignerCanvas = sender as DesignerCanvas;
+            zoomBox.DesignerCanvas = myDesignerCanvas;
+        }
     }
 }

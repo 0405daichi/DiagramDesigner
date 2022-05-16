@@ -24,8 +24,6 @@ C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\U
 C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\UserControls\ToolBoxControl.baml
 C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\Resources\DesignerItems\PinDesignerItemDataTemplate.baml
 C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\App.baml
-C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\Popups\PopupWindow.g.cs
-C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\Popups\PopupWindow.baml
 C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Buffers.dll
 C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\bin\Debug\System.Memory.dll

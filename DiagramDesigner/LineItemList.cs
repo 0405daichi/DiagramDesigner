@@ -20,11 +20,11 @@ namespace DiagramDesigner
         }
         public List<CircleDesignerItemViewModel> Arcs
         {
-            get { return LineItems.Where(v => v.Type == "Arc").Cast<CircleDesignerItemViewModel>().ToList(); }
+            get { return LineItems.Where(v => v.Type == "CircleDesignerItemViewModel").Cast<CircleDesignerItemViewModel>().ToList(); }
         }
         public List<CircleDesignerItemViewModel> SelectedArcs
         {
-            get { return SelectedLineItems.Where(v => v.Type == "Arc").Cast<CircleDesignerItemViewModel>().ToList(); }
+            get { return SelectedLineItems.Where(v => v.Type == "CircleDesignerItemViewModel").Cast<CircleDesignerItemViewModel>().ToList(); }
         }
     }
 }

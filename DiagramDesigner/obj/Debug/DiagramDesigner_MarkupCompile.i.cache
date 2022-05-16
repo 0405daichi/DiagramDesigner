@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\IG21-191\soursetree\src\DiagramDesigner\obj\Debug\
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesigner\obj\Debug\
 DiagramDesigner
 none
 false
@@ -12,7 +12,7 @@ DEBUG;TRACE
 
 9289031507
 
-42698408942
+42-674314906
 12-425035913
 Resources\Styles\DesignerItems.xaml;UserControls\DiagramControl.xaml;Resources\Styles\ZoomBox.xaml;Resources\Styles\Expander.xaml;Resources\Styles\GroupBox.xaml;Resources\Styles\ScrollBar.xaml;Resources\Styles\ScrollViewer.xaml;Resources\Styles\Shared.xaml;Resources\Styles\ToolTip.xaml;
 

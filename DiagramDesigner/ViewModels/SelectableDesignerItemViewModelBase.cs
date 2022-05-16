@@ -14,8 +14,8 @@ namespace DiagramDesigner
         SimpleCommand SelectItemCommand { get;  }
     }
 
-
-    public  class SelectableDesignerItemViewModelBase : INPCBase, ISelectItems
+    
+    public abstract class SelectableDesignerItemViewModelBase : INPCBase, ISelectItems
     {
         private bool isSelected;
 
@@ -154,8 +154,10 @@ namespace DiagramDesigner
                 NotifyChanged("Center");
             }
         }
-        
+        // edit type from name to class        
         public string Type { get; set; }
+        
+        public string ParentPathName { get; set; }
 
         // 移動し補正された端点もしくは中心点からの半径と描かれる弧の角度算出
         public void CalcCirclesValue(object sender, PropertyChangedEventArgs e)

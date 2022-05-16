@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\obj\Debug\
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\obj\Debug\
 DiagramDesignerApp
 none
 false
 DEBUG;TRACE
-C:\Users\IG21-191\soursetree\src\DiagramDesignerApp\App.xaml
+C:\Users\IG21-191\source\repos\DiagramDesignerApp\DiagramDesignerApp\App.xaml
 5-1933280494
 
-16-254323438
-24-407121499
+15670342343
+26493907121
 Resources\DesignerItems\HumanDesignerItemDataTemplate.xaml;Resources\DesignerItems\PinDesignerItemDataTemplate.xaml;UserControls\ToolBoxControl.xaml;UserControls\EditProperty.xaml;MainWindow.xaml;
 
-False
+True
 

@@ -1,0 +1,16 @@
+{
+  "Type": "PathDesignerItemViewModel",
+  "Name": "Line1",
+  "StartPoint": "208,124",
+  "EndPoint": "258,124",
+  "StartPointAccessLines": [],
+  "EndPointAccessLines": []
+}{
+  "Type": "CircleDesignerItemViewModel",
+  "Name": "Circle1",
+  "StartPoint": "308,203",
+  "EndPoint": "258,253",
+  "CenterPoint": "258,203",
+  "StartPointAccessLines": [],
+  "EndPointAccessLines": []
+}

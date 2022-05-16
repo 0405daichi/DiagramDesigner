@@ -15,7 +15,7 @@ namespace DiagramDesigner
         protected override void OnMouseLeftButtonDown(MouseButtonEventArgs e)
         {
             base.OnMouseLeftButtonDown(e);
-            SDesignerCanvas canvas = GetDesignerCanvas(this);
+            DesignerCanvas canvas = GetDesignerCanvas(this);
             if (canvas != null)
             {
                 canvas.SourceConnector = this;
@@ -25,12 +25,12 @@ namespace DiagramDesigner
         public ConnectorOrientation Orientation { get; set; }
 
         // iterate through visual tree to get parent DesignerCanvas
-        private SDesignerCanvas GetDesignerCanvas(DependencyObject element)
+        private DesignerCanvas GetDesignerCanvas(DependencyObject element)
         {
-            while (element != null && !(element is SDesignerCanvas))
+            while (element != null && !(element is DesignerCanvas))
                 element = VisualTreeHelper.GetParent(element);
 
-            return element as SDesignerCanvas;
+            return element as DesignerCanvas;
         }
 
     }

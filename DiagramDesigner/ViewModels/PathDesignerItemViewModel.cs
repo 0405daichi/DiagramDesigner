@@ -11,6 +11,19 @@ namespace DiagramDesigner
 {
     public class PathDesignerItemViewModel : DesignerItemViewModelBase
     {
-        public string LineName { get; set; }
+        public static PathDesignerItemViewModel Deserialize(SerializeItems item)
+        {
+            PathDesignerItemViewModel obj = new PathDesignerItemViewModel()
+            {
+                Type = item.Type,
+                ParentPathName = item.Name,
+                Start = new LinePoint(item.StartPoint.X, item.StartPoint.Y),
+                End = new LinePoint(item.EndPoint.X, item.EndPoint.Y),
+                Center = null
+            };
+            obj.Start.Parent = obj;
+            obj.End.Parent = obj;
+            return obj;
+        }
     }
 }
